@@ -203,7 +203,7 @@ All dashboards are standalone HTML files — open in any browser, no server requ
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/T2I-BiasBench.git
+git clone [https://github.com/Nihal108-bi/T2I-BiasBench.git](https://github.com/Nihal108-bi/T2I-BiasBench-A-Multi-Metric-Fairness-Evaluation-Framework-for-Small-Scale-Text-to-Image-Diffusion-.git)
 cd T2I-BiasBench
 
 # Create virtual environment
