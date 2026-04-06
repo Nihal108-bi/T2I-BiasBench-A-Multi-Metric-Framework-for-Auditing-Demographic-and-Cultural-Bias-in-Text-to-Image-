@@ -45,11 +45,11 @@
 
 |  | SD v1.5 | BK-SDM Base | Koala Lightning | Gemini 2.5 Flash |
 |:---:|:---:|:---:|:---:|:---:|
-| **Beauty** |  <img src="Images/sd_beauty.png" width="170" alt="SD Beauty"/> --> | <!-- <img src="Images/bk_beauty.png" width="170" alt="BK Beauty"/> --> | <!-- <img src="Images/koala_beauty.png" width="170" alt="Koala Beauty"/> --> | <!-- <img src="Images/gemini_beauty.png" width="170" alt="Gemini Beauty"/>  |
-| **Doctor** |  <img src="Images/sd_doctor.png" width="170" alt="SD Doctor"/> --> | <!-- <img src="Images/bk_doctor.png" width="170" alt="BK Doctor"/> --> | <!-- <img src="Images/koala_doctor.png" width="170" alt="Koala Doctor"/> --> | <!-- <img src="Images/gemini_doctor.png" width="170" alt="Gemini Doctor"/>  |
-| **Animal** |  <img src="Images/sd_animal.png" width="170" alt="SD Animal"/> --> | <!-- <img src="Images/bk_animal.png" width="170" alt="BK Animal"/> --> | <!-- <img src="Images/koala_animal.png" width="170" alt="Koala Animal"/> --> | <!-- <img src="Images/gemini_animal.png" width="170" alt="Gemini Animal"/>  |
-| **Nature** |  <img src="Images/sd_nature.png" width="170" alt="SD Nature"/> --> | <!-- <img src="Images/bk_nature.png" width="170" alt="BK Nature"/> --> | <!-- <img src="Images/koala_nature.png" width="170" alt="Koala Nature"/> --> | <!-- <img src="Images/gemini_nature.png" width="170" alt="Gemini Nature"/>  |
-| **Culture** |  <img src="Images/sd_culture.png" width="170" alt="SD Culture"/> --> | <!-- <img src="Images/bk_culture.png" width="170" alt="BK Culture"/> --> | <!-- <img src="Images/koala_culture.png" width="170" alt="Koala Culture"/> --> | <!-- <img src="Images/gemini_culture.png" width="170" alt="Gemini Culture"/>  |
+| **Beauty** |  <img src="Images/sd_beauty.png" width="170" alt="SD Beauty"/>  |  <img src="Images/bk_beauty.png" width="170" alt="BK Beauty"/>  |  <img src="Images/koala_beauty.png" width="170" alt="Koala Beauty"/>  |  <img src="Images/gemini_beauty.png" width="170" alt="Gemini Beauty"/>  |
+| **Doctor** |  <img src="Images/sd_doctor.png" width="170" alt="SD Doctor"/> |  <img src="Images/bk_doctor.png" width="170" alt="BK Doctor"/> |  <img src="Images/koala_doctor.png" width="170" alt="Koala Doctor"/>  |  <img src="Images/gemini_doctor.png" width="170" alt="Gemini Doctor"/>  |
+| **Animal** |  <img src="Images/sd_animal.png" width="170" alt="SD Animal"/>  |  <img src="Images/bk_animal.png" width="170" alt="BK Animal"/>  |  <img src="Images/koala_animal.png" width="170" alt="Koala Animal"/>  |  <img src="Images/gemini_animal.png" width="170" alt="Gemini Animal"/>  |
+| **Nature** |  <img src="Images/sd_nature.png" width="170" alt="SD Nature"/>  |  <img src="Images/bk_nature.png" width="170" alt="BK Nature"/>  |  <img src="Images/koala_nature.png" width="170" alt="Koala Nature"/>  |  <img src="Images/gemini_nature.png" width="170" alt="Gemini Nature"/>  |
+| **Culture** |  <img src="Images/sd_culture.png" width="170" alt="SD Culture"/>  |  <img src="Images/bk_culture.png" width="170" alt="BK Culture"/>  |  <img src="Images/koala_culture.png" width="170" alt="Koala Culture"/>  |  <img src="Images/gemini_culture.png" width="170" alt="Gemini Culture"/>  |
 
 </div>
 
