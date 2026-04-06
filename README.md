@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 🌐 Live Dashboard — [[https://ancha2003.github.io/Fairness-Bias-Evaluation-/](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/)]([https://ancha2003.github.io/Fairness-Bias-Evaluation-/](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/))
+### 🌐 Live Dashboard — [(https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/)](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/))
 
 
 <img src="Images/dashboard_preview.png" width="90%" alt="Dashboard Preview"/>
