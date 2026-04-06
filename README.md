@@ -321,11 +321,11 @@ Gemini    ░░░░░░░░░░░░░░ 0% Male · 100% Female ← 
 
 | Dashboard | Model | Theme | Link |
 |:---:|:---:|:---:|:---:|
-| 📊 **Comparative Analysis** | All 4 Models | Multi-colour | [**Open →**](https://ancha2003.github.io/Fairness-Bias-Evaluation-/) |
-| 📘 **SD v1.5** | Stable Diffusion | Blue | [Open →](https://ancha2003.github.io/Fairness-Bias-Evaluation-/SD_Dashboard.html) |
-| 📗 **BK-SDM** | BK-SDM Base | Pink | [Open →](https://ancha2003.github.io/Fairness-Bias-Evaluation-/BkSDM_Dashboard.html) |
-| 📙 **Koala** | Koala Lightning | Purple | [Open →](https://ancha2003.github.io/Fairness-Bias-Evaluation-/Koala_Dashboard.html) |
-| 📕 **Gemini** | Gemini 2.5 Flash | Green | [Open →](https://ancha2003.github.io/Fairness-Bias-Evaluation-/Gemini_Dashboard.html) |
+| 📊 **Comparative Analysis** | All 4 Models | Multi-colour | [**Open →**](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/) |
+| 📘 **SD v1.5** | Stable Diffusion | Blue | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/SD_Dashboard.html) |
+| 📗 **BK-SDM** | BK-SDM Base | Pink | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/BkSDM_Dashboard.html) |
+| 📙 **Koala** | Koala Lightning | Purple | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/Koala_Dashboard.html) |
+| 📕 **Gemini** | Gemini 2.5 Flash | Green | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/Gemini_Dashboard.html) |
 
 ### Each Dashboard Contains
 - **7 tabs**: Beauty · Doctor · Animal · Nature · Culture · Summary · Metrics Reference
@@ -511,7 +511,7 @@ Dashboard/
 
 **Made with ❤️ by Team NAAA**
 
-[![Live Dashboard](https://img.shields.io/badge/🌐_Open_Live_Dashboard-6C63FF?style=for-the-badge)](https://ancha2003.github.io/Fairness-Bias-Evaluation-/)
+[![Live Dashboard](https://img.shields.io/badge/🌐_Open_Live_Dashboard-6C63FF?style=for-the-badge)](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/)
 
 ⭐ **Star this repo if it helped your research!** ⭐
 
